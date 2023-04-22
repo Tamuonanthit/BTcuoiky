@@ -20,3 +20,5 @@
 - Không hỗ trợ tìm kiếm từ đồng nghĩa, gợi ý.
 - GUI chưa thể hiện được hết chức năng chương trình 
 - Chưa lập trình theo hướng đối tượng
+# Link PWP
++ https://www.canva.com/design/DAFgU9JG5xw/eLtT71uUHcry8uK4juF1cA/edit
